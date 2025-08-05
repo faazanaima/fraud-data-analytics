@@ -1,4 +1,5 @@
 # Online Gambling Fraud Detection via PU Learning (Pconf + Isolation Forest + AdaBoost)
+created by: Faaza Naima
 
 ## **Fraud Analytics in E-Wallet Systems: Precision-Driven Analysis of Online Gambling Transactions**
 
@@ -50,13 +51,13 @@ Due to **limited ground-truth labels**, this project uses **Positive-Unlabeled (
   - Best model (AdaBoost) achieves PR AUC 99.27% at threshold 0.48, with F2-score 95.02% (fraud), F1-score 95.4% (fraud), 82.1% (non-fraud), and 92.67% accuracy.
 ---
 
-## 💰 Cost-Benefit Evaluation
+## Cost-Benefit Evaluation
 
 > The model reduces investigation cost by 20.9% and total cost by 9.6%, demonstrating strong operational efficiency.
 
 ---
 
-## 📌 Key Fraud Patterns
+## Key Fraud Patterns
 
 | Pattern Type | Findings |
 |--------------|----------|
@@ -67,13 +68,10 @@ Due to **limited ground-truth labels**, this project uses **Positive-Unlabeled (
 
 ---
 
-## 📚 Theoretical Basis
+## Theoretical Basis
 
 - **Positive-Unlabeled Learning**: Elkan & Noto (2008)
 - **Pconf Learning**: Ishida et al. (2018) — *Learning from Positive Data with Confidence*
 - **F2-Score Optimization**:
   - Prioritizes recall: **minimizes cost of undetected fraud**
   - Industry-validated: **FN costs are 10x–100x** higher than FP
-
-│   ├── cost_analysis_summary.pdf
-├── README.md

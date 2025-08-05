@@ -1,7 +1,6 @@
-# Online Gambling Fraud Detection via PU Learning (Pconf + Isolation Forest + AdaBoost)
-created by: Faaza Naima
+# **Fraud Analytics in E-Wallet Systems: Recall-Driven Analysis of Online Gambling Transactions**
 
-## **Fraud Analytics in E-Wallet Systems: Precision-Driven Analysis of Online Gambling Transactions**
+created by: Faaza Naima
 
 This project addresses the surge in **online gambling transactions in Indonesia** via **E-Money and digital wallets**, which financial service providers are required to block and report per regulations.
 
